@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/socialNetwork/static/css/main.b3656e95.chunk.css",
+    "main.js": "/socialNetwork/static/js/main.0f3c1cc4.chunk.js",
+    "main.js.map": "/socialNetwork/static/js/main.0f3c1cc4.chunk.js.map",
+    "runtime-main.js": "/socialNetwork/static/js/runtime-main.2e1be00a.js",
+    "runtime-main.js.map": "/socialNetwork/static/js/runtime-main.2e1be00a.js.map",
+    "static/js/2.3d533776.chunk.js": "/socialNetwork/static/js/2.3d533776.chunk.js",
+    "static/js/2.3d533776.chunk.js.map": "/socialNetwork/static/js/2.3d533776.chunk.js.map",
+    "static/js/3.f76d9142.chunk.js": "/socialNetwork/static/js/3.f76d9142.chunk.js",
+    "static/js/3.f76d9142.chunk.js.map": "/socialNetwork/static/js/3.f76d9142.chunk.js.map",
+    "index.html": "/socialNetwork/index.html",
+    "static/css/main.b3656e95.chunk.css.map": "/socialNetwork/static/css/main.b3656e95.chunk.css.map",
+    "static/js/2.3d533776.chunk.js.LICENSE.txt": "/socialNetwork/static/js/2.3d533776.chunk.js.LICENSE.txt",
+    "static/media/backgroundPh.d58fd7ac.jpg": "/socialNetwork/static/media/backgroundPh.d58fd7ac.jpg",
+    "static/media/logoProf.492454aa.jpg": "/socialNetwork/static/media/logoProf.492454aa.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e1be00a.js",
+    "static/js/2.3d533776.chunk.js",
+    "static/css/main.b3656e95.chunk.css",
+    "static/js/main.0f3c1cc4.chunk.js"
+  ]
+}
