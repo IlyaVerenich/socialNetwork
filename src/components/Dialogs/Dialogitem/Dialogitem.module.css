@@ -1,0 +1,8 @@
+.peopleItem{
+    list-style-type:circle;
+    color: rgb(105, 105, 105);
+    margin-left: 260px;
+}
+.peopleItem:active{
+    color: black;
+}

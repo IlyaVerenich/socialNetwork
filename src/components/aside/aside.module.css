@@ -1,0 +1,14 @@
+aside{
+    position: fixed;
+    margin-top: 20px;
+    width: 200px;
+    height: 620px;
+    background-color:rgb(127, 134, 134) ;
+}
+li{
+    font-size: 30px;
+    list-style-type: none;
+}
+.settings{
+    margin-top: 40px;
+}

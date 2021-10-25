@@ -1,0 +1,12 @@
+.app-wrapper{
+  margin: 0 auto;
+  width: 920px;
+}
+a{
+  text-decoration: none;
+  color: black;
+}
+a:hover{
+  color: rgb(173, 229, 231);
+  text-decoration: underline;
+}

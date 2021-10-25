@@ -1,0 +1,12 @@
+.post{
+    display: flex;
+}
+
+.photo{
+    width: 20px;
+    height: 20px;
+}
+
+.item{
+    color: green;
+}

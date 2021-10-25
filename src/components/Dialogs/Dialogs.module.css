@@ -1,0 +1,20 @@
+.wrapper{
+    width: 700px;
+    height: 525px;
+    display: flex;
+}
+
+.name{
+    margin-left: 260px;
+    font-size: 35px;
+
+}
+.people{
+    width: 200px;
+    
+}
+.dialogs{
+    border-left: 2px solid black;
+    margin-left: 260px;
+    padding-left: 20px;
+}

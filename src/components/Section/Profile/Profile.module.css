@@ -1,0 +1,24 @@
+.profile{
+    display: flex;
+    margin-top: 20px;
+    margin-left: 220px;
+    
+}
+.backgroundPhoto{
+    margin-top: 20px;
+    margin-left: 260px;
+    width: 660px;
+    height: 200px;
+}
+.profilePhoto{
+    margin-top: 10px;
+    margin-left:40px;
+    width: 100px;
+    height: 100px;
+}
+.profileInfo{
+    margin-left: 30px;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(105, 105, 105);
+}
