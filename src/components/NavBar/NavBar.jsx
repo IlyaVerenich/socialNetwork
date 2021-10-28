@@ -15,8 +15,8 @@ const Nav=(props)=>{
     <BrowserRouter>
         <nav>
             <Aside/>
-            <Route path="/section" render={ () => <Section addpost={props.addpost} post={props.post}/>}/>
-            <Route path="/dialogs" render={ () => <Dialogs message={props.message} dialog={props.dialog} />}/>
+            <Route path="/section" render={ () => <Section dispatch={props.dispatch} post={props.post}/>}/>
+            <Route path="/dialogs" render={ () => <Dialogs dispatch={props.dispatch} message={props.message} dialogNames={props.dialogNames} />}/>
             <Route path="/news" component={News}/>
             {/* <Route path="/Music" component={}/>
             <Route path="/Settings" component={}/> */}

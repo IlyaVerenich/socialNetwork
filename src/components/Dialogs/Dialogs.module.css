@@ -1,20 +1,37 @@
 .wrapper{
     width: 700px;
     height: 525px;
+    margin-left: 260px;
+}
+.container{
     display: flex;
 }
-
 .name{
     margin-left: 260px;
     font-size: 35px;
 
 }
 .people{
-    width: 200px;
-    
+    margin-right: 20px;
 }
 .dialogs{
     border-left: 2px solid black;
-    margin-left: 260px;
     padding-left: 20px;
+}
+.messages{
+    margin-top: 40px;
+    display: flex;
+    flex-direction: column;
+}
+.message{
+    height:50px;
+    width: 400px;
+
+}
+.btn{
+    margin-top: 20px;
+    margin-left: 310px;
+    width: 100px;
+    height: 30px;
+    background-color: rgb(105, 105, 105);
 }
